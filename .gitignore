@@ -1,0 +1,11 @@
+# Python
+__pycache__
+*.pyc
+venv
+.venv
+dist
+*.egg-info
+.vscode
+coverage.xml
+.coverage
+code/nosetest.xml
